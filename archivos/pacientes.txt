@@ -1,0 +1,8 @@
+{'Tipo Documento': 'CC', 'Numero Documento': '1111', 'Nombres': 'cdsedfs', 'Apellidos': 'fsdsfsd', 'Fecha de nacimiento': '1212-12-12', 'RH': 'A-', 'Correo': 'qweqe@fsd.com', 'Numero de telefono': '23423'}
+{'Tipo Documento': 'CC', 'Numero Documento': '1', 'Nombres': 'sdsd', 'Apellidos': 'sadasd', 'Fecha de nacimiento': '1212-12-12', 'RH': 'A-', 'Correo': 'qwee@ddasd.com', 'Numero de telefono': '213123'}
+{'Tipo Documento': 'TI', 'Numero Documento': '144213155', 'Nombres': 'Franklin German', 'Apellidos': 'Quihuang', 'Fecha de nacimiento': '1999-12-08', 'RH': 'O+', 'Correo': 'quihuang2017@gmail.vom', 'Numero de telefono': '3205282231'}
+{'Tipo Documento': 'CC', 'Numero Documento': '24323232', 'Nombres': 'Julio Cesar', 'Apellidos': 'Mantilla', 'Fecha de nacimiento': '1998-08-23', 'RH': 'A+', 'Correo': 'julikawailoli@adwd.com', 'Numero de telefono': '123123123'}
+{'Tipo Documento': 'CC', 'Numero Documento': '111111', 'Nombres': 'dsdadsa', 'Apellidos': 'sadasd', 'Fecha de nacimiento': '1313-11-11', 'RH': 'A-', 'Correo': 'dawdwa@dasd.com', 'Numero de telefono': '123123'}
+{'Tipo Documento': 'CC', 'Numero Documento': '3', 'Nombres': 'lolo', 'Apellidos': 'Correo', 'Fecha de nacimiento': '1313-11-11', 'RH': 'A-', 'Correo': 'dawdwa@dasd.com', 'Numero de telefono': '123123'}
+{'Tipo Documento': 'CC', 'Numero Documento': '4', 'Nombres': 'lolo', 'Apellidos': 'anndrade', 'Fecha de nacimiento': '2443-10-13', 'RH': 'A-', 'Correo': 'dawdwa@dasd.com', 'Numero de telefono': '123123'}
+{'Tipo Documento': 'CC', 'Numero Documento': '8', 'Nombres': 'lolo', 'Apellidos': 'baca', 'Fecha de nacimiento': '2443-10-13', 'RH': 'A-', 'Correo': 'baca@dasd.com', 'Numero de telefono': '123123'}
